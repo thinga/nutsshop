@@ -1,0 +1,22 @@
+[
+  {
+    "Id": 1,
+    "Name": "Original"
+  },
+  {
+    "Id": 2,
+    "Name": "Mit Salz"
+  },
+  {
+    "Id": 3,
+    "Name": "Grillen mit Holz"
+  },
+  {
+    "Id": 4,
+    "Name": "Mit Schale"
+  },
+  {
+    "Id": 5,
+    "Name": "Ohne Schale"
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "Name": "Pistazien",
+    "Description": "Pistazien werden von Botanikern grüne Mandel genannt und leisten einen wichtigen Beitrag zu einer ausgewogenen Ernährung.",
+    "Price": 15,
+    "PictureUrl": "images/products/pistazien.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Cashew mit Salz",
+    "Description": "Nunc viverra imperdiet enim. s a tellus.",
+    "Price": 150,
+    "PictureUrl": "images/products/cashew.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Cashew (mit holz grillen)",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 180,
+    "PictureUrl": "images/products/hatdieurangcui.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Cashew mit Schale",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 300,
+    "PictureUrl": "images/products/hatdieuvolua.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Melonekern",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 250,
+    "PictureUrl": "images/products/hatdua.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Kübiskern mit Schale",
+    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+    "Price": 120,
+    "PictureUrl": "images/products/kübiskern.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Macadamia",
+    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 10,
+    "PictureUrl": "images/products/maccadaklak.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Macadamia",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 8,
+    "PictureUrl": "images/products/macca-nuhoang.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Macadamia Tay Nguyen",
+    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 15,
+    "PictureUrl": "images/products/maccaTaynguyen.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Sonnen Blume kern",
+    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "Price": 18,
+    "PictureUrl": "images/products/sonnenblume-kern.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Sonnen Blume kernz Original",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 15,
+    "PictureUrl": "images/products/sonnenblumekernoriginal.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Cashew mit holz grillen",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa.",
+    "Price": 16,
+    "PictureUrl": "images/products/hat-dieu-cao-cap.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Bio Pistazienkerne ohne Schale, 150g",
+    "Description": "Hola juntos! Diese Pistazienkerne kommen aus Vietnam. Abgepackt von den Bio Pionieren von Pico Lebensmittel aus Dietikon, welche dank ihrer langjährigen Erfahrung viele Kontakte zu Bio Produzenten mit hochwertigen Produkten weltweit haben.",
+    "Price": 17.90,
+    "PictureUrl": "images/products/Pistazienkerne_mit_Haut.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Bio Cashew, 400g",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 14.50,
+    "PictureUrl": "images/products/Bio-Cashew.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Bio Cashewkerne, 200g",
+    "Description": "Diese Bio Cashewkerne kommen aus Vietnam und schmecken als Snack für Zwischendurch oder auf dem Salat oder Müesli einfach wunderbar.",
+    "Price": 7.70,
+    "PictureUrl": "images/products/Bio_Cashewcerne_200g.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Nuss-Mix deluxe ungesalzen, 351g",
+    "Description": "Der erlesene Nuss-Mix beihaltet natürlich veredelte Kürbiskern-, Macadamia-, Pistazien und Cashews. Die Nüsse sind roh belassen und nicht geröstest, wobei wichtige Fettsäuren geschont werden. Die Veredelung verstärkt den natürlichen Gesmackt der Nüsse und nimmt ihnen die Bitterkeit, dabei wird auf zusätzliches Würzrn verzichtet. Ein wahres Gesmacktserlebnis und ein Muss für alle Nussliebhaber",
+    "Price": 13.90,
+    "PictureUrl": "images/products/Nussmix_ungesalzen_351g.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Bio Macadamia,300g",
+    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+    "Price": 150,
+    "PictureUrl": "images/products/macca-saoviet-300g.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Maccadamia, 500g",
+    "Description": "100% hạt macca sấy nứt nguyên vỏ, ăn liền – Hạt được tách nứt thủ công, có kèm theo dụng cụ khuy hạt, bóc tách dễ dàng.",
+    "Price": 180,
+    "PictureUrl": "images/products/macca-lamdong-500g.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  }
+]
